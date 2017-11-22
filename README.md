@@ -1,5 +1,5 @@
 
-# Improve Society
+# Improving Society
 
 This project is about improving our society, as if we were improving a program. 
 
@@ -17,4 +17,4 @@ The `ideas/` directory is for random ideas that you feel interesting but not wel
 
 Proposals and ideas are written in markdown, in the most possible universal notation.
 
-The `resources/` directory is for adding any data used in the proposals/ideas files (like pictures or any kind of data).
+The `resources/` directory is for adding any data used in the proposals/ideas (like pictures or any kind of data).
