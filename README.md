@@ -15,6 +15,6 @@ Feel free to submit pull requests, but remember that this is not a centralized p
 
 The `ideas/` directory is for random ideas that you feel interesting but not well formulated, organized like the proposals. Eventually, you could move the idea to proposals.
 
-Proposals and ideas are written in markdown, in the most possible universal notation.
+Proposals and ideas are written in markdown, in the most possible universal notation, in the most possible universal language (for now, english).
 
 The `resources/` directory is for adding any data used in the proposals/ideas (like pictures or any kind of data).
