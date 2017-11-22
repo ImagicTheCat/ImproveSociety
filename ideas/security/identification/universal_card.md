@@ -54,7 +54,7 @@ If we constrain the chip in a vital area, like the brain, which is also defining
 
 We can imagine a dystopia based on this where people murder others just to access their data, but it is not different from torturing people to make them speak (unless for the capacity to choose what to say, but we can imagine an unlock level for the chip).
 
-# Advantages
+# Usage
 
 Using the card or the chip, having this way of identification would be far more functional than we actually have, if well designed to avoid mass scale failure points.
 
@@ -63,6 +63,14 @@ Using the card or the chip, having this way of identification would be far more 
 Sending letters would be obsolete and communication could be encrypted between every peers.
 
 You could also get rid of the bank system, which is already the case with cryptocurrency.
+
+## Applications / Devices
+
+Any devices, applications or websites requiring a unique identification could rely on this card.
+
+This is different from the current way using a password, because not only you need to remember all your passwords (currently safer to have differents password for each applications), but you also need to type them on many unsafe devices, where your keyboard, your OS, your connection, your browser, the website itself are failure points that can leak your password. Thanks to asymetric encryption, only the card (the thing you can hold in your hand) would know the password and the private key. Simpler is the card, more localized is the password/key, less you can care about failure points.
+
+Caching the identification would probably become a necessity to prevent overhead, we can imagine that identification messages would have an expiration time and be application dependants.
 
 # NOTE
 
